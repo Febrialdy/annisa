@@ -1,0 +1,33 @@
+
+/* title */
+@font-face {
+    font-family: Lora;
+    src: url('../font/Lora.ttf');
+}
+
+/* content */
+@font-face {
+    font-family: Manrope;
+    src: url('../font/Manrope.ttf');
+}
+
+body {
+    font-family: Manrope;
+}
+
+.title{
+    font-family: Lora;
+}
+
+bg-header-table{
+    background-color: #C84B31;
+}
+
+th {
+    background-color: #F0EEED;
+    text-align: center;
+}
+
+.width{
+    width: 1000px;
+}
