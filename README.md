@@ -1,1 +1,1 @@
-# Single Moving Average
+# KP Otentikasi
